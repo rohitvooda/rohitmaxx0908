@@ -3,12 +3,6 @@
 
 ---
 
-## 🔥 About Me
-
-- 🚀 Fullstack Developer from **India**
-- 👨‍💻 Building real-world apps using **Java, React, MySQL, MongoDB**
-- 🔧 Working on **Amazon Clone**, **UI Component Library**, **Auth Systems**
-- 🎯 Goal: Become a **Java Fullstack 
 - 📫 Reach me at: **voodarohit0908@gmail.com**
 
 ---
@@ -16,7 +10,6 @@
 ## 🔗 Connect With Me  
 <p align="left">
 <a href="https://linkedin.com/in/rohitvooda" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -42,25 +35,17 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
-## 🔥 What I'm Working On
-- 🛒 **Amazon Clone** (React + Spring Boot + MySQL)
-- 🔐 Authentication & Authorization systems
-- 🧩 UI Component Library
-- ☁ Learning **Cloud Deployment (AWS, EC2, S3)**
-- 🚀 Improving Backend Architecture & APIs
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⭐ **Amazon Clone**  
-Full eCommerce platform with cart, orders, payments, admin, and auth.  
-**Tech:** React, MySQL  
-🔗 https://github.com/rohitvooda/Amazon-Clone
+
 
 ---
 
@@ -71,10 +56,6 @@ Modern personal portfolio website.
 
 ---
 
-### ⭐ **UI Components Project**  
-Reusable animated UI components for frontend.  
-**Tech:** React  
-🔗 Coming soon...
 
 ---
 
